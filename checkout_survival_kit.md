@@ -1,6 +1,7 @@
 # Checkout Survival Kit for Newcomers
 
-## Table of Content
+- TOC
+{:toc}
 
 ## Functionality
 ### Position in the E2E e-commerce process
