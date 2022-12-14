@@ -1,8 +1,8 @@
 # Checkout Survival Kit for Newcomers
 
-# Table of Content
+## Table of Content
 
-## Core functionality
+## Functionality
 ### Position in the E2E e-commerce process
 ### Checkout core business process (Cart to Order)
 ### Checkout sources
@@ -53,6 +53,16 @@
 ### Offsite payment
 ### Abandoned checkout
 
+## Error handling
+- Violation
+- Exception
+
+## Features
+- Discount
+
+## Extensibility
+- Script
+
 ## Checkout classic and checkout one (C1)
 ### Main difference
 ### Eligibility for checkout one
@@ -61,19 +71,16 @@
 ### Impact on merchant and buyer
 ### Impact on issue solving
 
-## Features
-- Discount
-
-## Extensibility
-- Script
-
 ## Issue solving guide
 ### Decision tree
+### Tools
+- Rails console
+- Lint
+- Unit test
 ### Observability
 - Logs (Splunk)
 - Exceptions (Bugsnag)
 - Violations (Datadog)
 - Metrics (Grafana)
 - Profile (Speedscope)
-
 
